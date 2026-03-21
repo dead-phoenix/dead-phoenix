@@ -1,6 +1,6 @@
 <div align="center">
 
-# tanisha thapa
+# Tanisha Thapa
 
 <sub>
 data science · ai/ml · figuring things out as i go
@@ -22,7 +22,7 @@ data science · ai/ml · figuring things out as i go
 
 ---
 
-## about me
+## About Me
 
 I’m someone who likes understanding *why things behave the way they do* — whether that’s people, data, or systems.
 
