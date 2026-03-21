@@ -7,6 +7,7 @@ data science · ai/ml · figuring things out as i go
 </sub>
 
 <br>
+<br>
 
 <a href="https://linkedin.com">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
@@ -23,57 +24,55 @@ data science · ai/ml · figuring things out as i go
 
 ## about me
 
-i’m someone who likes understanding *why things behave the way they do* — whether that’s people, data, or systems.
+I’m someone who likes understanding *why things behave the way they do* — whether that’s people, data, or systems.
 
-i don’t just enjoy building models, i enjoy questioning them.  
+I don’t just enjoy building models, i enjoy questioning them.  
 what they capture, what they miss, and what that says about the real world.
 
-right now, i’m especially drawn to the space between:
-- human behaviour and data  
-- intuition and statistical evidence  
-- messy real-world problems and structured solutions  
-
-outside of academics and work, i’m slowly getting back into reading again — and rediscovering how much i enjoy it.
+Right now, i’m especially drawn to the space between:
+- Human behaviour and data  
+- Intuition and statistical evidence  
+- Messy real-world problems and structured solutions  
 
 ---
 
-## tech stack
+## Tech stack
 
-**languages**  
+**Languages**  
 `python` · `sql` · `r` · `matlab`  
 
-**machine learning / ai**  
+**,achine Learning / AI**  
 `pytorch` · `tensorflow` · `scikit-learn` · `transformers`  
 `langchain` · `spacy` · `nltk`  
 
-**data & analysis**  
+**Data & Analysis**  
 `pandas` · `numpy` · `scipy` · `matplotlib` · `seaborn`  
 
-**tools & infrastructure**  
+**Tools & Infrastructure**  
 `docker` · `git` · `apache spark` · `hadoop`  
 
 ---
 
-## currently exploring
+## Currently Exploring
 
-- evaluating llm outputs beyond surface-level metrics  
-- combining time-series signals with unstructured data  
-- building systems that are not just accurate, but actually useful  
+- Evaluating llm outputs beyond surface-level metrics  
+- Combining time-series signals with unstructured data  
+- Building systems that are not just accurate, but actually useful  
 
 ---
 
-## outside of work
+## Outside of Work
 
-- getting back into reading after a long break  
-- going down deep research rabbit holes (unintentionally, but often)  
-- thinking about ideas a little longer than necessary  
+- Getting back into reading after a long break  
+- Going down deep research rabbit holes (unintentionally, but often)  
+- Thinking about ideas a little longer than necessary  
 
 ---
 
 <div align="center">
 
 <sub>
-open to interesting conversations, ideas, and collaborations
+Open to interesting conversations, ideas, and collaborations
 </sub>
 
 </div>
