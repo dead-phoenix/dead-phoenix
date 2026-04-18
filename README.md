@@ -24,7 +24,7 @@ data science · ai/ml · figuring things out as i go
 
 ## About Me
 
-I’m someone who likes understanding *why things behave the way they do* — whether that’s people, data, or systems.
+I’m someone who likes understanding *why things behave the way they do* - whether that’s people, data, or systems.
 
 I don’t just enjoy building models, i enjoy questioning them.  
 what they capture, what they miss, and what that says about the real world.
