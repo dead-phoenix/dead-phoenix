@@ -41,7 +41,7 @@ Right now, i’m especially drawn to the space between:
 **Languages**  
 `python` · `sql` · `r` · `matlab`  
 
-**,achine Learning / AI**  
+**Machine Learning / AI**  
 `pytorch` · `tensorflow` · `scikit-learn` · `transformers`  
 `langchain` · `spacy` · `nltk`  
 
